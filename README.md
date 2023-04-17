@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/gkatchoua/contosoair/_apis/build/status%2Fkatchoua.ContosoAir?branchName=master)](https://dev.azure.com/gkatchoua/contosoair/_build/latest?definitionId=5&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
